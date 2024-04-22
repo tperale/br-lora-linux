@@ -1,0 +1,7 @@
+[submodule "buildroot"]
+	path = buildroot
+	url = git@github.com:buildroot/buildroot.git
+[submodule "src/linux"]
+	path = src/linux
+	url = git@github.com:tperale/linux.git
+	branch = linux-5.0.y-lora
