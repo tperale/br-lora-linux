@@ -1,0 +1,5 @@
+config BR2_PACKAGE_LORA_TX
+    bool "LoRa TX"
+    help
+      Command line utility to send LoRa broadcast message with through the
+      LoRa Linux network interface.
